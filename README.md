@@ -1,2 +1,2 @@
 # Canny
-Simple implementation of detection canny edge.
+Simple implementation of Canny edge detection.
